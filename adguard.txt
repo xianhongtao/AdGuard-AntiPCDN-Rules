@@ -3,6 +3,7 @@
 ||*.mcdn.bilivideo.cn^$important
 ||szbdyd.com^$important
 ||*.szbdyd.com^$important
+||mountaintoys.cn^$important
 ||bilivideo.com/v1/resource^$important
 ||[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}:[0-9]{1,5}/v1/resource^$important
 
