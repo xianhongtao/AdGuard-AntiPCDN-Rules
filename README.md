@@ -25,3 +25,7 @@ https://raw.githubusercontent.com/xianhongtao/AdGuard-AntiPCDN-Rules/refs/heads/
 ```plaintext
 https://raw.githubusercontent.com/xianhongtao/AdGuard-AntiPCDN-Rules/refs/heads/main/adguard.txt
 ```
+
+## ❓ Q & A
+
+[点击查看常见问题解答](./Q&A.md)
