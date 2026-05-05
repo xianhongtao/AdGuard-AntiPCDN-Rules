@@ -1,20 +1,14 @@
-! 屏蔽bilibili PCDN
+! bilibili / bilivideo
 
 ||*pcdn*.biliapi.net^$important
 ||mcdn.bilivideo.com^$important
 ||mcdn.bilivideo.cn^$important
-||szbdyd.com^$important
-||mountaintoys.cn^$important
-||bsccdn.net^$important
+
+! douyu
+
 ||dyp2p-ali.douyucdn.cn^$important
 ||dyp2p-hw.douyucdn.cn^$important
-||ietheivaicai.com^$important
-||kuiniuca.com^$important
-||nexusedgeio.com^$important
-||onethingpcs.com^$important
 ||p2p-ali.douyucdn.cn^$important
-||p2p.huya.com^$important
-||p2p.qq.com^$important
 ||p2pchunk-hw.douyucdn.cn^$important
 ||p2pchunk-table.douyucdn.cn^$important
 ||p2pchunk-ws.douyucdn.cn^$important
@@ -22,15 +16,39 @@
 ||p2plive-ali.douyucdn.cn^$important
 ||p2plive-ws.douyucdn.cn^$important
 ||p2plog.douyucdn.cn^$important
+||p2pvod-ws.douyucdn.cn^$important
+||stun.douyucdn.cn^$important
+||stun1.douyucdn.cn^$important
+
+! huya
+
+||p2p.huya.com^$important
+
+! tencent / qq
+
+||p2p.qq.com^$important
 ||p2ptun.qq.com^$important
 ||p2pupdate.gamedl.qq.com^$important
 ||p2pupgrade.gamedl.qq.com^$important
-||p2pvod-ws.douyucdn.cn^$important
+
+! kuaishou / yximgs
+
 ||pcdn.yximgs.com^$important
+
+! hitv
+
+||stun.hitv.com^$important
+
+! others (待归类)
+
+||szbdyd.com^$important
+||mountaintoys.cn^$important
+||bsccdn.net^$important
+||ietheivaicai.com^$important
+||kuiniuca.com^$important
+||nexusedgeio.com^$important
+||onethingpcs.com^$important
 ||pkoplink.com^$important
 ||saxysec.com^$important
-||stun.douyucdn.cn^$important
-||stun.hitv.com^$important
-||stun1.douyucdn.cn^$important
 ||uhabo.com^$important
 ||xycdn.com^$important
